@@ -12,7 +12,7 @@
 #include <sstream>
 using namespace std;
 using namespace cv;
-int main(int argc, char** argv) {
+int maini(int argc, char** argv) {
     // declares all required variables
     Rect roi;
     // create a tracker object

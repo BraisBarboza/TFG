@@ -145,6 +145,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="qr_read.cpp" />
     <ClCompile Include="TFG.cpp" />
   </ItemGroup>
   <ItemGroup>

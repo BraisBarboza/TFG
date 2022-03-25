@@ -18,6 +18,9 @@
     <ClCompile Include="TFG.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
+    <ClCompile Include="qr_read.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Media Include="..\..\..\Documents\Repositorios\TFG\video.mp4">
